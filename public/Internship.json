@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Web Development Internship",
+        "projects": 4,
+        "students": 40.5,
+        "tag": "Beginner to Advance"
+    },
+    {
+        "title": "App Development Internship",
+        "projects": 4,
+        "students": 18.4,
+        "tag": "Beginner to Advance"
+    },
+    {
+        "title": "Java Development Internship",
+        "projects": 4,
+        "students": 14.9,
+        "tag": "Beginner to Advance"
+    },
+    {
+        "title": "Python Programming Internship",
+        "projects": 4,
+        "students": 10.5,
+        "tag": "Beginner to Advance"
+    }
+    ,
+    {
+        "title": "Machine Learning Internship",
+        "projects": 4,
+        "students":7.9,
+        "tag": "Beginner to Advance"
+    }
+    ,
+    {
+        "title": "Data Science Internship",
+        "projects": 4,
+        "students": 6.7,
+        "tag": "Beginner to Advance"
+    }
+]
